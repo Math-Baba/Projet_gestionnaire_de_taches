@@ -1,4 +1,3 @@
-# TP_git_Mathieu_Damien
 # Projet Git - Gestion de Tâches
 
 ## Description
